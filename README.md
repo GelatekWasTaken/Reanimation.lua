@@ -3,6 +3,9 @@
 Docs:
 
 
+
+# Basic Stuff
+
 # `_G.Reanimated`
 - Will always trigger when your reanimated or not, for example:
   - `repeat wait() until _G.Reanimated == true`
@@ -17,7 +20,7 @@ Docs:
 - Allows you to change your player velocity, for example
   - `_G.Velocity = Vector3.new(36,0,0)`
 
-# Permament Death..
+# Permament Death
 
 # `_G.FlingBlock` 
   - Enables Fling 
