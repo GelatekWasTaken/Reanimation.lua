@@ -5,17 +5,17 @@ Docs:
 
 # `_G.Reanimated`
 - Will always trigger when your reanimated or not, for example:
-- `repeat wait() until _G.Reanimated == true`
+  - `repeat wait() until _G.Reanimated == true`
 
 # `_G.ReanimationType` 
 - There are currently 3 Reanims All of them are for R6.
-- `_G.ReanimationType = "Simple"` Simple Reanimate No Fling
-- `_G.ReanimationType = "Fling"` Simple Reanimate Torso Fling
-- `_G.ReanimationType = "PDeath" ` Permament Death Reanimate
+  - `_G.ReanimationType = "Simple"` Simple Reanimate No Fling
+  - `_G.ReanimationType = "Fling"` Simple Reanimate Torso Fling
+  - `_G.ReanimationType = "PDeath" ` Permament Death Reanimate
 
 # `_G.Velocity`
 - Allows you to change your player velocity, for example
-- `_G.Velocity = Vector3.new(36,0,0)`
+  - `_G.Velocity = Vector3.new(36,0,0)`
 
 # Permament Death..
 
